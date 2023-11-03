@@ -1,0 +1,2 @@
+xenomake.filtered.human.txt filter=lfs diff=lfs merge=lfs -text
+xenomake.filtered.mouse.txt filter=lfs diff=lfs merge=lfs -text
