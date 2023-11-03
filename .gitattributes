@@ -1,2 +1,11 @@
 xenomake.filtered.human.txt filter=lfs diff=lfs merge=lfs -text
 xenomake.filtered.mouse.txt filter=lfs diff=lfs merge=lfs -text
+example.out/epithelium_stroma_interactions.txt filter=lfs diff=lfs merge=lfs -text
+example.out/human_genes_cell_interactions_clusters.pkl filter=lfs diff=lfs merge=lfs -text
+example.out/mouse_genes_cell_interactions_clusters.pkl filter=lfs diff=lfs merge=lfs -text
+example.out/mouse_genes_stroma_epi_interactions_clusters.pkl filter=lfs diff=lfs merge=lfs -text
+example.out/mouse_stroma_stroma_interactions.txt filter=lfs diff=lfs merge=lfs -text
+example.out/stroma_epithelium_interactions.txt filter=lfs diff=lfs merge=lfs -text
+example.out/human_epithelium_epithelium_interactions.txt filter=lfs diff=lfs merge=lfs -text
+example.out/human_genes_stroma_epi_interactions_clusters.pkl filter=lfs diff=lfs merge=lfs -text
+example.out/map_genes.pkl filter=lfs diff=lfs merge=lfs -text
